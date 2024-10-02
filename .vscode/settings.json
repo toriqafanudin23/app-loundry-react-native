@@ -1,0 +1,11 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.zoomLevel": 0.5,
+  "workbench.colorTheme": "Noctis Obscuro",
+  "workbench.iconTheme": "vscode-icons",
+  "terminal.integrated.fontSize": 18,
+  "editor.fontSize": 18
+}
